@@ -1,7 +1,4 @@
-* [데이터 리차드 포트폴리오를 참고하려면?](https://dongchanlim.github.io/github-portfolio/)
-* [무료 이미지 사이트](https://unsplash.com/)
-
-## 📊 자기 소개 (Introduction)
+## 자기 소개 (Introduction)
 ------
 
 ### ~한 000입니다.
@@ -14,7 +11,7 @@
 > 
 
 
-## 📊 직무 경험 (Experience)
+## 직무 경험 (Experience)
 ------
 
 **직무 타이틀** @ 회사이름 (시작연도/월 - 졸업연도/월)
@@ -22,18 +19,18 @@
 - Achieve X with measurement of Y using Z
 
 
-## 📊 교육 (Education)
+## 교육 (Education)
 ------
 🏫 학교 이름 (시작연도 - 졸업연도)
 
 - 전공 & 과 이름
 
 
-## 📊 보유 스킬 (Skill)
+## 보유 스킬 (Skill)
 ------
 - 예시) Python - Pandas, Numpy, Matplotlib, Sklearn
 
-## 📊 프로젝트 (Project)
+## 프로젝트 (Project)
 ------
 ![trash](assets/img/trash.jpeg)
 
